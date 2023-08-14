@@ -3,12 +3,15 @@
 ## Açıklama
 Bu, ekran görüntülerini belirtilen aralıklarla yakalayıp e-posta yoluyla gönderen Python tabanlı bir ekran görüntüsü aracıdır. Araç, aracı Windows makinelerinde kolayca kullanmak için kullanılan bir yürütülebilir (.exe) dosya oluşturma özelliğiyle birlikte gelir.
 
-Araç ilk başta kullanıcıların mailine ekran görüntülerin gidip gitmediğini kontrol etmek için kullanıcı "Ctrl+C" kombinasyonuna basana kadar terminalde belirlenen maile screenshot gönderir. Eğer mail şifresinde veya adın da bir sıkıntı varsa hata verecektir.
+
+## Bazı Notlar
+
+- Araç ilk başta kullanıcıların mailine ekran görüntülerin gidip gitmediğini kontrol etmek için kullanıcı "Ctrl+C" kombinasyonuna basana kadar terminalde belirlenen maile screenshot gönderir. Eğer mail şifresinde veya adın da bir sıkıntı varsa hata verecektir.
 
 
-Eğer Mail yapılandırması doğru ise mailler başarılı olarak gönderilecektir.
+- Eğer Mail yapılandırması doğru ise mailler başarılı olarak gönderilecektir.
 
-Kullanıcı "Ctrl+C" kombinasyonuna basınca deneme maillerinin gönderilmesi durdurulacak ve exe dosyası oluşacaktır.
+- Kullanıcı "Ctrl+C" kombinasyonuna basınca deneme maillerinin gönderilmesi durdurulacak ve exe dosyası oluşacaktır.
 
 
 **Not**: Bu araç potansiyel olarak kötü niyetli amaçlar için kullanılabilir. Yalnızca alıcının rızasıyla ve yasal amaçlar için sorumlu bir şekilde kullanınız.
