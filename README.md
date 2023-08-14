@@ -1,4 +1,4 @@
-# Ekran Görüntüsü Aracı
+# Screenshot Tool
 
 ## Açıklama
 Bu, ekran görüntülerini belirtilen aralıklarla yakalayıp e-posta yoluyla gönderen Python tabanlı bir ekran görüntüsü aracıdır. Araç, aracı Windows makinelerinde kolayca kullanmak için kullanılan bir yürütülebilir (.exe) dosya oluşturma özelliğiyle birlikte gelir.
