@@ -33,7 +33,7 @@ Bu, ekran görüntülerini belirtilen aralıklarla yakalayıp e-posta yoluyla g�
 3. Betiği çalıştırın:
 
   ```bash
-  python screenshot_tool.py -s <sender_email> -p <sender_password> -r <receiver_email> -i <interval> -n <exe_name> -c <icon_path>
+  python screenshot.py -s <sender_email> -p <sender_password> -r <receiver_email> -i <interval> -n <exe_name> -c <icon_path>
   ```
 
 4. Betik ekran görüntülerini yakalayacak ve belirtilen aralıkta e-posta yoluyla gönderecektir.
