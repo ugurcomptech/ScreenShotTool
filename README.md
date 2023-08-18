@@ -46,8 +46,6 @@ Bu, ekran görüntülerini belirtilen aralıklarla yakalayıp e-posta yoluyla g�
 - `-n, --exe-name`: Oluşturulan exe dosyasının adı.
 - `-c, --icon-path`: Yürütülebilir dosya için simge dosyasının yolu.
 
-![video](https://github.com/ugurcomptech/ScreenShotTool/assets/133202238/8ebf86f3-e91e-4130-9eb8-95bd7bf4a194)
-
 
 ## Sorumluluk Reddi
 Geliştirici, bu aracın kötüye kullanımından veya neden olabileceği herhangi bir zarardan sorumlu değildir.  
