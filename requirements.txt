@@ -2,3 +2,5 @@ Pillow
 pywin32
 yagmail
 sockets
+time
+os-sys
