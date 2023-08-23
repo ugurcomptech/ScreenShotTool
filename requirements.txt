@@ -1,3 +1,4 @@
 Pillow
 pywin32
 yagmail
+sockets
